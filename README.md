@@ -6,7 +6,7 @@
 
 Službena web stranica nogometnog turnira **MIOC Open** — školskog turnira III. gimnazije (MIOC) u Splitu.
 
-🔗 **[vitodrnjevic.github.io/Mioc-Open--nogometni-turnir](https://vitodrnjevic.github.io/Mioc-Open--nogometni-turnir/)**
+🔗 **[vitodrnjevic.github.io/Mioc-Open-nogometni-turnir](https://vitodrnjevic.github.io/Mioc-Open-nogometni-turnir/)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -109,7 +109,7 @@ Nema build koraka, `npm install` ni ovisnosti — stranica je potpuno statična.
 ## 📁 Struktura projekta
 
 ```
-Mioc-Open--nogometni-turnir/
+Mioc-Open-nogometni-turnir/
 │
 ├── index.html              # početna stranica
 ├── prijava.html            # prijava na sljedeće izdanje
@@ -147,8 +147,8 @@ Mioc-Open--nogometni-turnir/
 
 ```bash
 # kloniraj repozitorij
-git clone https://github.com/vitodrnjevic/Mioc-Open--nogometni-turnir.git
-cd Mioc-Open--nogometni-turnir
+git clone https://github.com/vitodrnjevic/Mioc-Open-nogometni-turnir.git
+cd Mioc-Open-nogometni-turnir
 
 # pokreni server (treba Python)
 python -m http.server 8000
@@ -166,7 +166,7 @@ Zatim otvori **http://localhost:8000** u pregledniku.
 2. Pod **Source** odaberi **Deploy from a branch**
 3. Pod **Branch** odaberi `main` i mapu `/ (root)` → **Save**
 4. Nakon 1–2 minute stranica je dostupna na:
-   **https://vitodrnjevic.github.io/Mioc-Open--nogometni-turnir/**
+   **https://vitodrnjevic.github.io/Mioc-Open-nogometni-turnir/**
 
 Svaka nova promjena koju pošalješ na `main` automatski se objavi za minutu-dvije.
 
@@ -307,5 +307,4 @@ Izradili učenici **4.F** razreda III. gimnazije Split:
 
 **MIOC Open** · Najbolji turnir na cilome svitu ⚽
 
-</div># Mioc-Open-nogometni-turnir
-MIOC Open – nogometni turnir III. gimnazije Split ⚽
+</div>
